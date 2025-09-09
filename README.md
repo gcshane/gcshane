@@ -1,3 +1,3 @@
 # Hello, I'm Shane! 👋
-👨‍💻 Software Engineer @ PhillipCapital
+👨‍💻 Software Engineer @ PhillipCapital \
 🎓 BSc (Information Systems) @ Singapore Management University
