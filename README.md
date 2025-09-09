@@ -1,2 +1,3 @@
-# Hello, I'm Shane! 
-I am an Information Systems graduate from Singapore Management University eager to start a career in Software Engineering!
+# Hello, I'm Shane! 👋
+👨‍💻 Software Engineer @ PhillipCapital
+🎓 BSc (Information Systems) @ Singapore Management University
