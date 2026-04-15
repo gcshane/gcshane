@@ -1,2 +1,2 @@
 # Hello, I'm Shane! 👋
-I am a Software Engineer 👨‍💻
+Welcome to my GitHub. It has been around for awhile but still kinda barren, and I intend for that to change.
